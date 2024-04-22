@@ -1,0 +1,15 @@
+f1 : counts and return number of words ending with letter "m" or "n" (not case sensitive)
+
++string lowercase
++split " " => cho vao mang words;
++foreach() ; endsWith("m" or "n")
+
+f2 : return the string s, which is obtained by reversing the first (longest) word in the string 
+
++ find the longest word in the string
+	+ split "\\s" cho vao mang word
+	+ su dung ham length
+=> chuoi dai nhat
+
++reversing the string
+	+ su dung ham stringBuilder

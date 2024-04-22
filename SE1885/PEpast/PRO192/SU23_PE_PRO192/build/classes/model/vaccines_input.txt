@@ -1,0 +1,6 @@
+code=1, name=COVID-19, quantity=100, expirationDate=abc, price=1.0, lastInjectedDate=01/01/2023
+code=2, name=Gam-COVID-Vac, quantity=200, expirationDate=15/07/2026, price=1.0, lastInjectedDate=11/02/2022
+code=3, name=Vero-Cell, quantity=300, expirationDate=31/03/2024, price=1.0, lastInjectedDate=25/06/2021
+code=4, name=Spikevax, quantity=500, expirationDate=22/06/2025, price=1.0, lastInjectedDate=30/12/2022
+code=5, name=AstraZeneca, quantity=400, expirationDate=14/08/2026, price=1.0, lastInjectedDate=18/09/2022
+code=6, name=SPUTNIK-V, quantity=700, expirationDate=18/05/2027, price=1.0, lastInjectedDate=21/04/2022

@@ -1,0 +1,26 @@
+f1 : 
++ result 
++ foreach () 
+	isDigit	&&	isLetter
++ return
+
+f2: find the first brick having maximun odd price and change its place to " xx"
+
++ max = list[1], position = 0
++ forArray( if max < list[i]) : max = list[i] ; position = i;
+list[position].setplace;
+
+f3: find the first brick having maximun price and sort all elements before it ascendingly by price
+
+
++ max = list[1], position = 0
++ forArray( if max < list[i]) : max = list[i] ; position = i;
+
+
+
+- find the first brick having maximum price (1)
+- sort all elements in ascendingly by price before the first brick having maximum price(2)
+
+
+
+
